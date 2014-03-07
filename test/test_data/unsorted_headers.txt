@@ -1,0 +1,17 @@
+--------------------------------------------------------------------------------
+SIGNED:1st Colony Manager
+TO:President of Earth
+FROM:1st Human Colony on Venus
+...
+
+--------------------------------------------------------------------------------
+TO:President of Earth
+SIGNED:1st Colony Manager
+FROM:1st Human Colony on Venus
+...
+
+--------------------------------------------------------------------------------
+FROM:1st Human Colony on Venus
+SIGNED:1st Colony Manager
+TO:President of Earth
+...
